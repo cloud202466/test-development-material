@@ -1,9 +1,7 @@
-# 全栈测试资料-关注微信公众号：程序员杨叔，带你了解更多测试知识
+# 全栈测试资料
 
-<p align="center">
-  <a href="https://blog.csdn.net/baidu_28340727"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-</p>
 <p>
+<a href="https://sm.ms/image/IzRlCdxE5aqvb84" target="_blank"><img src="https://s2.loli.net/2021/12/11/IzRlCdxE5aqvb84.png" ></a>
 <a href="https://sm.ms/image/NcUYdh64FE1HBDv" target="_blank"><img src="https://s2.loli.net/2021/12/11/NcUYdh64FE1HBDv.png" ></a>
 </p>
 ------
