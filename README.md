@@ -1,7 +1,7 @@
 # 全栈测试资料-关注微信公众号：程序员杨叔，带你了解更多测试知识
 
 <p align="center">
-  <a href="https://blog.csdn.net/baidu_28340727"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://blog.csdn.net/baidu_28340727"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN">程序员杨叔的CSDN</a>
 </p>
 
 ------
