@@ -1,13 +1,7 @@
 # 全栈测试资料-关注微信公众号：程序员杨叔，带你了解更多测试知识
 
 <p align="center">
-  <a href="https://space.bilibili.com/382166537"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4" alt="哔哩哔哩"></a>
-  <a href="https://www.zhihu.com/people/nethuangdz"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
-  <a href="https://me.csdn.net/dzreal93"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-  <a href="https://testerhome.com/GitDzreal93"><img src="https://img.shields.io/badge/testerhome-testerhome-blue" alt="testerhome"></a>
-  <a href="https://www.jianshu.com/u/ec56cfd67d3c"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="简书"></a>
-  <a href="https://juejin.im/user/5921aec3da2f60005d533584"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue" alt="掘金"></a>
-  <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国"></a>
+  <a href="https://blog.csdn.net/baidu_28340727"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
 
 ------
