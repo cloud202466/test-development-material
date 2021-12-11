@@ -3,7 +3,9 @@
 <p align="center">
   <a href="https://blog.csdn.net/baidu_28340727"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
-
+<p>
+<a href="https://sm.ms/image/NcUYdh64FE1HBDv" target="_blank"><img src="https://s2.loli.net/2021/12/11/NcUYdh64FE1HBDv.png" ></a>
+</p>
 ------
 
 软件测试各类资源清单，包括测试工具、测试框架、学习资源和测试网站。
